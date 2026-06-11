@@ -1,5 +1,5 @@
 # Intelligent Sales Forecasting & Inventory Optimization
-
+demo live link url : https://intelligent-sales-forecasting.onrender.com
 ## Overview
 
 This project uses Machine Learning and Time Series Forecasting to predict future sales demand and optimize inventory levels.
